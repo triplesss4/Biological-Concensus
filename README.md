@@ -1,6 +1,6 @@
 **Biological Homeostasis Protocol**
 
-This project simulates communication between biological organs — Brain, Heart, and Lungs — using synchronous message-passing rounds in java. Each organ can send and receive messages on thier status and react accordingly to the status of other organs in the network. The simulation models basic homeostasis and physiological responses in a simplified networked system. This is just the intiial framwork of this project and I plan on adding more to this project in the near future.
+I came up with this project idea beacuase I am taking an internet algorithms course and then I thought that the human body was a good analogy for communicating processors. I thought that this could help people who do not take computer science understand how networks communicate. This project simulates communication between biological organs — Brain, Heart, and Lungs — using synchronous message-passing rounds in java. Each organ can send and receive messages on thier status and react accordingly to the status of other organs in the network. The simulation models basic homeostasis and physiological responses in a simplified networked system. This is just the intiial framwork of this project and I plan on adding more to this project in the near future.
 
 **Features**
 
